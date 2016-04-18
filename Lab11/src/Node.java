@@ -3,7 +3,7 @@
  * Spring 2016
  */
 
-package edu.saintjoe.cmullis; 
+ 
 
 public class Node {
 	//// data members ////

@@ -1,5 +1,3 @@
-import edu.saintjoe.cmullis.Node;
-
 public class LinkedList2 {
 	
 	private Node front = null;
