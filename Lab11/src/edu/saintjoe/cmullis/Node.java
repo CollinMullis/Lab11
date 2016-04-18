@@ -2,6 +2,9 @@
  * Jennifer Coy and Rob Deadman
  * Spring 2016
  */
+
+package edu.saintjoe.cmullis; 
+
 public class Node {
 	//// data members ////
 	private int data;			// the data for this node

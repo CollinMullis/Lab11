@@ -1,3 +1,5 @@
+import edu.saintjoe.cmullis.Node;
+
 /* LinkedList:  using book's implementation
  * NOTE:  all insertions are to the front of the list.
  * Jennifer Coy and Rob Deadman
