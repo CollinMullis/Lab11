@@ -40,7 +40,7 @@ public class LinkedList {
 	//// NOTE: this inserts a new node as the first node in the list
 	public boolean insert(int newData) {
 		// create a new Node object
-		Node newestNode = new Node();s
+		Node newestNode = new Node();
 		
 		// error check -- if we can't get memory, newestNode will be null
 		if (newestNode == null) {
